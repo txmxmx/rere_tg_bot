@@ -6,4 +6,4 @@ She is my first bot for telegram
 
 It is programmed to transmit information. 
 
-To your repository and my contact details
+To your repository, my contact details and weather 
